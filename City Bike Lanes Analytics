@@ -1,3 +1,5 @@
+#For this project I created a table listing the safety ratings for different city bike lanes and then asnwered questions regarding the data. 
+
 CREATE TABLE BIT_DB.CityBikeLanes (
 id integer primary key,
 year_installed year not null,
